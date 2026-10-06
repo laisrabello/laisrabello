@@ -11,7 +11,7 @@
 
 ### Minha trajetória
 
-**Estagiária de Soluções de Mídias na Globo → promoção para Analista de Soluções de Mídia.**
+**Atualmente como Analista de Soluções de Mídia na Globo.**
 
 Formada em Física, graduanda em Engenharia Elétrica e iniciando a formação em **Ciência de Dados na EBAC**. Meu ponto de encontro é a conexão entre tecnologia, dados e soluções de mídia.
 
