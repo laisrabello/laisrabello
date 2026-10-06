@@ -1,21 +1,64 @@
-<h2 align="left">Sobre mim</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" alt="Laís Rabello — tecnologia, dados e soluções de mídia. Estagiária na Globo, com promoção para Analista de Soluções de Mídia." width="100%">
+</picture>
 
-###
+## 01 / Sobre mim
 
-<p align="left">Olá, sou a Laís! Bem-vindo ao meu perfil 👋<br><br>Formada em Física, cursando graduação em Engenharia Elétrica, e atualmente trabalhando como Analista de Soluções de Mídias na Globo. Nesta plataforma, compartilho meus aprendizados através de projetos. Construí meu portifólio utilizando HTML, CSS e JavaScript, além de outras páginas web simples, como um checklist de tarefas e uma página de links para minhas redes sociais. Hoje, me encontro estudando mais sobre Ciência de Dados e Inteligência Artificial com Python. <br><br>Stay tuned for more 🤖</p>
+Sou **Laís Rabello**, estagiária de Soluções de Mídias na **Globo**, com promoção para **Analista de Soluções de Mídia**. Minha trajetória reúne formação em Física, graduação em Engenharia Elétrica e estudos em Ciência de Dados na EBAC.
 
-###
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:laisrabellocode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laispimentelrabello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Gosto de entender como as coisas funcionam e transformar esse entendimento em soluções. Aqui compartilho projetos, estudos e experimentos na conexão entre **tecnologia, dados e negócio**.
 
+```javascript
+const approach = (problem) => {
+  const context = understand(problem);
+  const solution = build(context);
+  return improve(solution);
+};
+```
 
+*Um pequeno manifesto em pseudocódigo: entender, construir e melhorar.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg">
+  <img src="./assets/toolbox-light.svg" alt="Competências: HTML, CSS e JavaScript; Excel, Power BI, métricas e KPIs. Em estudo: Ciência de Dados, Python e SQL." width="100%">
+</picture>
+
+| Área | Competências | Momento |
+| --- | --- | --- |
+| Desenvolvimento web | HTML, CSS e JavaScript | Prática em projetos pessoais |
+| Análise de dados | Excel, Power BI, métricas e KPIs | Conhecimentos e aplicação |
+| Ciência de Dados | Formação na EBAC, Python e SQL | Em estudo |
+| Versionamento | Git e GitHub | Organização dos projetos e estudos |
+
+## 03 / O que estou construindo
+
+### 01 — Portfólio pessoal
+
+Meu espaço na internet, desenvolvido com **HTML, CSS e JavaScript**. Um projeto que acompanha minha evolução e reúne minha trajetória, competências e trabalhos.
+
+[Explorar o código →](https://github.com/laisrabello/Projeto-Site-Pessoal)
+
+### 02 — Laboratório de programação
+
+Estudos e experimentos de desenvolvimento: uma ideia, uma implementação e algo novo aprendido a cada projeto.
+
+[Explorar meus repositórios →](https://github.com/laisrabello?tab=repositories)
+
+### 03 — Próximo experimento: dados
+
+Minha formação em Ciência de Dados está começando. Este perfil também será um registro desse aprendizado, com projetos publicados conforme forem desenvolvidos.
+
+## 04 / Por trás desta interface
+
+Este README usa **SVGs próprios**, com versões clara e escura, e uma composição de código → resultado. O código representa minha maneira de pensar; a interface apresenta minha trajetória.
+
+A estrutura e os links ficam em Markdown. As imagens trazem a identidade visual, sem depender de serviços de banners ou estatísticas.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/signature-light.svg">
+  <img src="./assets/signature-light.svg" alt="Laís Rabello — learning, building & solving." width="100%">
+</picture>
