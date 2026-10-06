@@ -1,64 +1,51 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="Laís Rabello — tecnologia, dados e soluções de mídia. Estagiária na Globo, com promoção para Analista de Soluções de Mídia." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./signal-dark.gif">
+  <img src="./signal-light.gif" width="100%" alt="Laís Rabello. Do sinal à solução: um sinal se transforma em monograma LR, passando por HTML, CSS e JavaScript.">
 </picture>
 
-## 01 / Sobre mim
+<p align="center">
+  <a href="#minha-trajetória">Trajetória</a> ·
+  <a href="#meu-trabalho">Projetos</a> ·
+  <a href="https://www.linkedin.com/in/laispimentelrabello/">LinkedIn ↗</a>
+</p>
 
-Sou **Laís Rabello**, estagiária de Soluções de Mídias na **Globo**, com promoção para **Analista de Soluções de Mídia**. Minha trajetória reúne formação em Física, graduação em Engenharia Elétrica e estudos em Ciência de Dados na EBAC.
+### Minha trajetória
 
-Gosto de entender como as coisas funcionam e transformar esse entendimento em soluções. Aqui compartilho projetos, estudos e experimentos na conexão entre **tecnologia, dados e negócio**.
+**Estagiária de Soluções de Mídias na Globo → promoção para Analista de Soluções de Mídia.**
 
-```javascript
-const approach = (problem) => {
-  const context = understand(problem);
-  const solution = build(context);
-  return improve(solution);
-};
-```
+Formada em Física, graduanda em Engenharia Elétrica e iniciando a formação em **Ciência de Dados na EBAC**. Meu ponto de encontro é a conexão entre tecnologia, dados e soluções de mídia.
 
-*Um pequeno manifesto em pseudocódigo: entender, construir e melhorar.*
+<details>
+<summary><b>Abrir minha caixa de ferramentas</b></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg">
-  <img src="./assets/toolbox-light.svg" alt="Competências: HTML, CSS e JavaScript; Excel, Power BI, métricas e KPIs. Em estudo: Ciência de Dados, Python e SQL." width="100%">
-</picture>
-
-| Área | Competências | Momento |
+| Construir | Analisar | Em estudo |
 | --- | --- | --- |
-| Desenvolvimento web | HTML, CSS e JavaScript | Prática em projetos pessoais |
-| Análise de dados | Excel, Power BI, métricas e KPIs | Conhecimentos e aplicação |
-| Ciência de Dados | Formação na EBAC, Python e SQL | Em estudo |
-| Versionamento | Git e GitHub | Organização dos projetos e estudos |
+| HTML, CSS e JavaScript | Excel e Power BI | Ciência de Dados na EBAC |
+| Interfaces e projetos web | Métricas e KPIs | Python e SQL |
+| Git e GitHub | Organização e interpretação de dados | Go: exercícios e resumos |
 
-## 03 / O que estou construindo
+</details>
 
-### 01 — Portfólio pessoal
-
-Meu espaço na internet, desenvolvido com **HTML, CSS e JavaScript**. Um projeto que acompanha minha evolução e reúne minha trajetória, competências e trabalhos.
-
-[Explorar o código →](https://github.com/laisrabello/Projeto-Site-Pessoal)
-
-### 02 — Laboratório de programação
-
-Estudos e experimentos de desenvolvimento: uma ideia, uma implementação e algo novo aprendido a cada projeto.
-
-[Explorar meus repositórios →](https://github.com/laisrabello?tab=repositories)
-
-### 03 — Próximo experimento: dados
-
-Minha formação em Ciência de Dados está começando. Este perfil também será um registro desse aprendizado, com projetos publicados conforme forem desenvolvidos.
-
-## 04 / Por trás desta interface
-
-Este README usa **SVGs próprios**, com versões clara e escura, e uma composição de código → resultado. O código representa minha maneira de pensar; a interface apresenta minha trajetória.
-
-A estrutura e os links ficam em Markdown. As imagens trazem a identidade visual, sem depender de serviços de banners ou estatísticas.
+### Meu trabalho
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/signature-light.svg">
-  <img src="./assets/signature-light.svg" alt="Laís Rabello — learning, building & solving." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./work-dark.svg">
+  <img src="./work-light.svg" width="100%" alt="Projetos e atualizações públicas de Laís: portfólio pessoal, estudos de frontend e Golang. O painel indica quando foi sincronizado.">
 </picture>
+
+<p align="center">
+  <a href="https://github.com/laisrabello/Projeto-Site-Pessoal"><b>01 / Portfólio ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/laisrabello/Estudos-frontend"><b>02 / Frontend ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/laisrabello/Estudos-Golang"><b>03 / Go ↗</b></a>
+</p>
+
+<details>
+<summary>Sobre o Signal Studio · código e versão sem movimento</summary>
+
+O sinal representa minha origem em Física; a transformação em interface representa meu trabalho com tecnologia; a conexão entre os dois acompanha minha evolução em mídia e dados. A animação é uma composição própria, desenhada quadro a quadro.
+
+O painel abaixo da animação é gerado por **JavaScript**, a partir dos repositórios públicos do GitHub, e atualizado por GitHub Actions. Os dados são snapshots; não são uma transmissão em tempo real. Forks e este repositório de perfil ficam fora da lista de atividade e das contagens por linguagem.
+
+[Ver composição estática](./signal-light.png) · [Ver gerador JavaScript](./source/update-profile.mjs) · [Ver fonte da animação](./source/render_motion.py)
+
+</details>
