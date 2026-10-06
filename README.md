@@ -38,14 +38,3 @@ Formada em Física, graduanda em Engenharia Elétrica e iniciando a formação e
   <a href="https://github.com/laisrabello/Estudos-frontend"><b>02 / Frontend ↗</b></a> &nbsp; · &nbsp;
   <a href="https://github.com/laisrabello/Estudos-Golang"><b>03 / Go ↗</b></a>
 </p>
-
-<details>
-<summary>Sobre o Signal Studio · código e versão sem movimento</summary>
-
-O sinal representa minha origem em Física; a transformação em interface representa meu trabalho com tecnologia; a conexão entre os dois acompanha minha evolução em mídia e dados. A animação é uma composição própria, desenhada quadro a quadro.
-
-O painel abaixo da animação é gerado por **JavaScript**, a partir dos repositórios públicos do GitHub, e atualizado por GitHub Actions. Os dados são snapshots; não são uma transmissão em tempo real. Forks e este repositório de perfil ficam fora da lista de atividade e das contagens por linguagem.
-
-[Ver composição estática](./signal-light.png) · [Ver gerador JavaScript](./source/update-profile.mjs) · [Ver fonte da animação](./source/render_motion.py)
-
-</details>
