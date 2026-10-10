@@ -49,8 +49,6 @@ Me chamo Laís e sou natural do Rio de Janeiro. Concluí a Graduação de Físic
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
----
-
 ### 📊 Estatísticas
 
 <p>
