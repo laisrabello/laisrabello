@@ -1,40 +1,73 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./signal-dark.gif">
-  <img src="./signal-light.gif" width="100%" alt="Laís Rabello. Do sinal à solução: um sinal se transforma em monograma LR, passando por HTML, CSS e JavaScript.">
-</picture>
+# 👩🏻‍💻 Laís Rabello
 
-<p align="center">
-  <a href="#minha-trajetória">Trajetória</a> ·
-  <a href="#meu-trabalho">Projetos</a> ·
-  <a href="https://www.linkedin.com/in/laispimentelrabello/">LinkedIn ↗</a>
-</p>
+**`Solução de Mídias | Globo`**
 
-### Minha trajetória
+Me chamo Laís e sou natural do Rio de Janeiro. Concluí a Graduação de Física na Universidade Federal Fluminense (UFF) e atualmente estou cursando Engenharia Elétrica na Universidade Veiga de Almeida (UVA). Sou uma entusiasta por tecnologia e ao longo de toda minha trajetória busquei conhecimento sobre programação, desenvolvimento de software e análise de dados. Hoje, como Analista de Soluções de Mídias na Globo, direciono meu conhecimento de tecnologia para resolução de problemas no mundo do Broadcast (Tv e PayTv).
 
-**Atualmente como Analista de Soluções de Mídia na Globo.**
+---
 
-Formada em Física, graduanda em Engenharia Elétrica e iniciando a formação em **Ciência de Dados na EBAC**. Meu ponto de encontro é a conexão entre tecnologia, dados e soluções de mídia.
+### 🤖 Linguagens e Tecnologias
 
-<details>
-<summary><b>Abrir minha caixa de ferramentas</b></summary>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-| Construir | Analisar | Em estudo |
-| --- | --- | --- |
-| HTML, CSS e JavaScript | Excel e Power BI | Ciência de Dados na EBAC |
-| Interfaces e projetos web | Métricas e KPIs | Python e SQL |
-| Git e GitHub | Organização e interpretação de dados | Go: exercícios e resumos |
+<br/>
+<br/>
 
-</details>
+### 📊 Estatísticas
 
-### Meu trabalho
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./work-dark.svg">
-  <img src="./work-light.svg" width="100%" alt="Projetos e atualizações públicas de Laís: portfólio pessoal, estudos de frontend e Golang. O painel indica quando foi sincronizado.">
-</picture>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<p align="center">
-  <a href="https://github.com/laisrabello/Projeto-Site-Pessoal"><b>01 / Portfólio ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://github.com/laisrabello/Estudos-frontend"><b>02 / Frontend ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://github.com/laisrabello/Estudos-Golang"><b>03 / Go ↗</b></a>
 </p>
