@@ -52,7 +52,7 @@ Me chamo Laís e sou natural do Rio de Janeiro. Concluí a Graduação de Físic
     align="left" 
     alt="Golang" 
     title="Golang"
-    width="40px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"          
 />
